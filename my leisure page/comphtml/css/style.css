@@ -1,0 +1,237 @@
+body{
+    color:black;
+    font-size:22px;
+    font-style:italic;
+    border: 2px black;
+    background-color: aqua;
+    text-align:justify;
+    
+   
+}
+h1{
+    color:aqua;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:2em ;
+    margin-left:5em;
+    margin-right:5em;
+    margin-bottom:1.5em;
+    padding:0.5rem 2em;
+    border: double ;
+    border-top-width:5px;
+    border-color: goldenrod;
+    outline: 5px solid purple;
+    outline-offset:-20px;
+
+}
+.water{
+    color:blue;
+}
+.two{
+    color:blue;
+    
+}
+.related1{
+    color: blue;
+    font-size:18px;
+    vertical-align: super;
+}
+.related2{
+    color: blue;
+    font-size:18px;
+    vertical-align: super;
+}
+.related3{
+    color: blue;
+    font-size:18px;
+    vertical-align: super;
+
+
+}
+.p1{
+    color:gold;
+    font-size: 15px;
+    text-align:justify;
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-indent:2rem;
+    word-spacing:1.5rem;
+    font-weight: bolder;
+    
+}
+
+
+.p2{
+    color:gold;
+    font-size: 15px;
+    text-align:justify;
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-indent:2rem;
+    word-spacing:1.5rem;
+    font-weight: bolder;
+    
+}
+ .p3{
+   color:gold;
+    font-size: 15px;
+    text-align:justify;
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-indent:2rem;
+    word-spacing:1.5rem;
+    font-weight: bolder; 
+}
+.p4{
+    color:gold;
+     font-size: 15px;
+     text-align:justify;
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-indent:2rem;
+    word-spacing:1.5rem; 
+     font-weight: bolder;
+ }
+ .y{
+    color:blue;
+    font-size:15px;
+    vertical-align: middle;
+ }
+ .x{
+    color:blue;
+    font-size:15px;
+    vertical-align: middle;
+ }
+ .parts{
+    color:yellow;
+    font-size:12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0.5rem;
+
+ }
+ .x1,.x2,.x3,.x4,.x4,.x5,.x6{
+    font-size:12px;
+    color:blueviolet;
+ }
+ a:visited{
+    color:black;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ }
+ header{
+    background-color:yellowgreen;
+    border:2px black;
+    
+ }
+ table, tr,td, caption{
+    font-family:'Courier New', Courier, monospace;
+    border: 2px  solid black;
+    border-collapse:collapse;
+    padding: 0.5rem;
+    background-color:grey;
+ }
+ th{
+    color:blueviolet;
+    font-style: italic;
+
+ }
+ .img3{
+    margin-bottom:2em;
+    margin-top:4em;
+    margin-left: 25rem;
+    margin-right:25rem;
+    overflow-clip-margin: cotent-box;
+ }
+  mark{
+     background-color: blueviolet;
+     font-size:2rem;
+     margin-left:5em;
+     margin-right:15em;
+     border:2px solid whitesmoke;
+     width:150%;  
+ }
+ .circle{
+    color:aqua;
+    border: solid black;
+    margin:3rem auto;
+    outline: 2px solid red;
+    outline-offset: 1.5rem orange;
+    height:50px;
+    width:50px;
+    border-radius: 25px;
+    background-color:blueviolet;
+ }
+ figcaption{
+    margin-left: 25rem;
+    margin-right:25rem;
+ }
+ .figcap1,.figcap2,.figcap3{
+    background-color: brown;
+    border:2px solid black;
+ }
+ .img1,.img2{
+    margin: 6rem  25rem auto;
+    overflow-clip-margin: cotent-box;
+ }
+ .add1{
+    background-color: blue;
+    border:2px solid black;
+    padding:0.5rem;
+    margin-left: 25rem;
+    margin-right:25rem;
+ }
+ form{
+    background-color:mediumslateblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: solid blanchedalmond;
+    border-top-color: blue;
+    /* outline: 3px solid cyan;
+    outline-offset: 10px; */
+ }
+ h5{
+    color:blue;
+    margin-left: 25rem;
+    margin-right:25rem;
+    
+ }
+
+ 
+
+ 
+
